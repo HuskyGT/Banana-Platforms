@@ -9,6 +9,6 @@ This is a platforms integration for my Banana OS mod with a bunch of useful sett
 * Platform Size: changes the platforms size
 * Platforms Enabled: Enables/Disables the mod
 * Toggle Grip Platforms: Toggle platform placements instead of hold
-* Match Material: When enabled platforms will copy your material when placed this works with custom materials (like with wrysers cosmetic mod)
-* Other Players Platform Collision Toggle: Turns Other Players Platform colliders on/off
-* Networking: You can see other peoples platforms (there may be small issues with the networked settings and there is a small delay when changing settings for them to be synced to other players to prevent network spam)
+* Match Material: platforms will copy your material when placed this works with custom materials (like with wrysers cosmetic mod)
+* Other Players Platform Collision Toggle: Turns Other Players Platform colliders
+* Networking: You can see other peoples platforms
