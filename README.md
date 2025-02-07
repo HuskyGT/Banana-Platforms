@@ -1,4 +1,4 @@
-# Banana Platforms v1.0.0
+# Banana Platforms
 This is a platforms integration for my Banana OS mod with a bunch of useful settings to tweak your platforms and networking so others can see your platforms
 
 ## Requirements
